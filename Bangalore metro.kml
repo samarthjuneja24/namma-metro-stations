@@ -705,6 +705,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Indiranagar Metro Station</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            77.6383839,12.9782819,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Green line</name>
