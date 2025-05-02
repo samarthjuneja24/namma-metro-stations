@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Bangalore metro</name>
+    <name>Bangalore Metro</name>
     <description/>
     <Style id="icon-1899-0288D1-labelson-nodesc">
       <IconStyle>
@@ -142,32 +142,27 @@
         <styleUrl>#icon-1899-FFD600-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
+
+    <!-- Blue Line -->
     <Folder>
-      <name>Blue line metro</name>
+      <name>Blue Line</name>
       <Placemark>
-        <name>Silk board metro station</name>
+        <name>HSR Layout</name>
         <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6207196,12.9165536,0
+            77.6367879,
+            12.9173071,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>HSR Layout Metro Station</name>
+        <name>Agara Lake</name>
         <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6367879,12.9173071,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Agara Lake Metro Station</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            77.6441363,12.9211791,0
+            77.6441363,
+            12.9211791,0
           </coordinates>
         </Point>
       </Placemark>
@@ -176,7 +171,8 @@
         <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6630563,12.9213065,0
+            77.6630563,
+            12.9213065,0
           </coordinates>
         </Point>
       </Placemark>
@@ -185,226 +181,233 @@
         <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6802841,12.9275761,0
+            77.6802841,
+            12.9275761,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Kadubeesanahalli Metro Station</name>
+        <name>Kadubeesanahalli</name>
         <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6876417,12.9322644,0
+            77.6876417,
+            12.9322644,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Kodibeesanahalli metro station</name>
+        <name>Kodibeesanahalli</name>
         <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6981111111111,12.9450277777778,0
+            77.6981111111111,
+            12.9450277777778,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Marathahalli Metro Station</name>
+        <name>Marathahalli</name>
         <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.7005147,12.9541683,0
+            77.7005147,
+            12.9541683,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>ISRO metro station</name>
+        <name>ISRO</name>
         <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.7011388888889,12.969,0
+            77.7011388888889,
+            12.969,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Doddanekundi Metro Station</name>
+        <name>Doddanekundi</name>
         <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6971111111111,12.9756388888889,0
+            77.6971111111111,
+            12.9756388888889,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>DRDO Sports Complex Metro Station</name>
+        <name>DRDO Sports Complex</name>
         <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6908333333333,12.9858888888889,0
+            77.6908333333333,
+            12.9858888888889,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Sarasvathi Nagar Metro Station</name>
+        <name>Sarasvathi Nagar</name>
         <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6855833333333,12.99375,0
+            77.6855833333333,
+            12.99375,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Krishnarajapura metro station</name>
+        <name>Kasturi Nagar</name>
         <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6685772,12.9966279,0
+            77.6631944444445,
+            13.0048611111111,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Kasturi Nagar Metro Station</name>
+        <name>Benniganahalli</name>
         <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6631944444445,13.0048611111111,0
+            77.6682628,
+            12.9963737,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Benniganahalli Metro Station</name>
+        <name>Horamavu</name>
         <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6682628,12.9963737,0
+            77.6603611111111,
+            13.0170277777778,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Horamavu Metro Station</name>
+        <name>HRBR Layout</name>
         <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6603611111111,13.0170277777778,0
+            77.6473888888889,
+            13.0225277777778,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>HRBR Layout Metro station</name>
+        <name>Kalyan Nagar</name>
         <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6473888888889,13.0225277777778,0
+            77.6378055555556,
+            13.02625,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Kalyan Nagar Metro Station</name>
+        <name>Embassy Manyata</name>
         <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6378055555556,13.02625,0
+            77.6183463,
+            13.041414,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Nagawara Metro Station</name>
+        <name>Kempapura</name>
         <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6246666666667,13.0405,0
+            77.605016,
+            13.043832,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Embassy Manyata Metro Station</name>
+        <name>Hebbal</name>
         <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6183463,13.041414,0
+            77.5939737,
+            13.0436765,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Kempapura Metro Station</name>
+        <name>Kodigehalli</name>
         <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.605016,13.043832,0
+            77.5938611111111,
+            13.0570277777778,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Hebbal Metro Station</name>
+        <name>Jakkur Cross</name>
         <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5939737,13.0436765,0
+            77.5934848,
+            13.0702722,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Kodigehalli Metro Station</name>
+        <name>Yelahanka</name>
         <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5938611111111,13.0570277777778,0
+            77.6003489,
+            13.1019481,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Jakkur Cross Metro Station</name>
+        <name>Bagaluru Cross</name>
         <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5934848,13.0702722,0
+            77.6096487,
+            13.1188527,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Yelahanka Metro Station</name>
+        <name>Bettahalasuru</name>
         <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6003489,13.1019481,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Bagaluru Cross Metro Station</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            77.6096487,13.1188527,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Bettahalasuru Metro Station</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            77.6203012,13.1511648,0
+            77.6203012,
+            13.1511648,0
           </coordinates>
         </Point>
       </Placemark>
     </Folder>
+
+    <!-- Purple Line -->
     <Folder>
-      <name>Purple line</name>
+      <name>Purple Line</name>
       <Placemark>
-        <name>Challaghatta Metro Station</name>
+        <name>Challaghatta</name>
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.4612408,12.8973787,0
+            77.4612408,
+            12.8973787,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Kengeri Metro Station</name>
+        <name>Kengeri</name>
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.4763541,12.907852,0
+            77.4764677019309,
+            12.907912687539957,0
           </coordinates>
         </Point>
       </Placemark>
@@ -413,25 +416,28 @@
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.4870751,12.9136259,0
+            77.4877149125669,
+            12.914642720254376,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Pattanagere Metro Station (RV College)</name>
+        <name>Pattanagere</name>
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.4982704,12.9243691,0
+            77.4982704,
+            12.9243691,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Jnanabharathi Metro Station</name>
+        <name>Jnanabharathi</name>
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5120509,12.9353468,0
+            77.51218193645194,
+            12.935444982194097,0
           </coordinates>
         </Point>
       </Placemark>
@@ -440,61 +446,68 @@
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.519556,12.936693,0
+            77.519556,
+            12.936693,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Metro station</name>
+        <name>Pantharapalya Nayandahalli</name>
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5295763,12.9465686,0
+            77.52516367245964,
+            12.94182456986251,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Mysore Road Metro Station (towars Kengeri)</name>
+        <name>Mysuru Road</name>
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5305276,12.9462188,0
+            77.53007735206413,
+            12.946717448137308,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Deepanjali nagar metro station (BHEL)</name>
+        <name>Deepanjali Nagar</name>
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5369757,12.952197,0
+            77.5369757,
+            12.952197,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Attiguppe Metro Entrance( towards Chandra Layout)</name>
+        <name>Attiguppe</name>
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5333741,12.961745,0
+            77.5333741,
+            12.961745,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Vijayanagar Metro Station</name>
+        <name>Vijayanagar</name>
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5373613,12.9707371,0
+            77.5373613,
+            12.9707371,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Sri Balagangadhara Natha Swamiji</name>
+        <name>Sri Balagangadhara Natha Swamiji, Hosahalli</name>
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5454436,12.9742975,0
+            77.5454436,
+            12.9742975,0
           </coordinates>
         </Point>
       </Placemark>
@@ -503,7 +516,8 @@
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5554115,12.9756582,0
+            77.5554115,
+            12.9756582,0
           </coordinates>
         </Point>
       </Placemark>
@@ -512,16 +526,8 @@
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5657561,12.9758403,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Majestic metro station</name>
-        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            77.5712212,12.9759107,0
+            77.56575609754167,
+            12.975837197764024,0
           </coordinates>
         </Point>
       </Placemark>
@@ -530,7 +536,8 @@
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5839458,12.9742805,0
+            77.5839458,
+            12.9742805,0
           </coordinates>
         </Point>
       </Placemark>
@@ -539,7 +546,8 @@
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5926343,12.9796925,0
+            77.59263260475089,
+            12.979692118870926,0
           </coordinates>
         </Point>
       </Placemark>
@@ -548,25 +556,18 @@
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5974654,12.9809008,0
+            77.5974654,
+            12.9809008,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>MG Road Metro Station</name>
+        <name>Trinity</name>
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6059678,12.9757717,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Trinity Metro Station</name>
-        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            77.6172418,12.9729409,0
+            77.6172418,
+            12.9729409,0
           </coordinates>
         </Point>
       </Placemark>
@@ -575,16 +576,18 @@
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.626715,12.9763635,0
+            77.626715,
+            12.9763635,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Vivekanandha Metro Railway Station</name>
+        <name>Swami Vivekananda Road</name>
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6448454,12.9858453,0
+            77.6448454,
+            12.9858453,0
           </coordinates>
         </Point>
       </Placemark>
@@ -593,88 +596,98 @@
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6525905,12.9906677,0
+            77.65259563606178,
+            12.99066738352011,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Singayyanapalya Metro Station</name>
+        <name>Singayyanapalya</name>
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6924627,12.9966506,0
+            77.6924627,
+            12.9966506,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Garudacharapalya Metro station</name>
+        <name>Garudacharapalya</name>
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.7036972,12.9934865,0
+            77.7036972,
+            12.9934865,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Hoodi Metro Station</name>
+        <name>Hoodi</name>
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.7113186,12.9887029,0
+            77.7113186,
+            12.9887029,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Seetharam Palya Metro Station</name>
+        <name>Seetharam Palya</name>
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.7088355,12.9808333,0
+            77.7088355,
+            12.9808333,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Kundalahalli Metro Station</name>
+        <name>Kundalahalli</name>
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.7163039,12.9773798,0
+            77.71552364035472,
+            12.977604391190999,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>nallurhalli metro</name>
+        <name>Nallur Halli</name>
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.7207075,12.9769711,0
+            77.72475096472743,
+            12.976633134434516, 0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Sri Sathya Sai Hospital Metro Station</name>
+        <name>Sri Sathya Sai Hospital</name>
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.7276147,12.9810264,0
+            77.7276147,
+            12.9810264,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Pattandur Agrahara Metro Station</name>
+        <name>Pattandur Agrahara</name>
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.7376327,12.98762,0
+            77.7376327,
+            12.98762,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Kadugodi Tree Park Metro Station</name>
+        <name>Kadugodi Tree Park</name>
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.7469171,12.985608,0
+            77.7469171,
+            12.985608,0
           </coordinates>
         </Point>
       </Placemark>
@@ -683,73 +696,73 @@
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.753796,12.987348,0
+            77.753796,
+            12.987348,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Whitefield (Kadugodi) Metro station</name>
+        <name>Whitefield (Kadugodi)</name>
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.7577657,12.9950251,0
+            77.7577657,
+            12.9950251,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Krishnarajapura metro station</name>
+        <name>Indiranagar</name>
         <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6685772,12.9966279,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Indiranagar Metro Station</name>
-        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            77.6383839,12.9782819,0
+            77.63852597359286,
+            12.978258549732328,0
           </coordinates>
         </Point>
       </Placemark>
     </Folder>
+
+    <!-- Green Line -->
     <Folder>
-      <name>Green line</name>
+      <name>Green Line</name>
       <Placemark>
-        <name>Madavara METRO STATION</name>
+        <name>Madavara</name>
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.4729597,13.0573826,0
+            77.4729597,
+            13.0573826,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Chikkabidarakallu Metro Station</name>
+        <name>Chikkabidarakallu</name>
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.4878094,13.0524446,0
+            77.4878094,
+            13.0524446,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Manjunatha Nagara Metro station</name>
+        <name>Manjunatha Nagara</name>
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.49418,13.0503856,0
+            77.49418,
+            13.0503856,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Nagasandra metro station</name>
+        <name>Nagasandra</name>
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5000249,13.04823,0
+            77.5000249,
+            13.04823,0
           </coordinates>
         </Point>
       </Placemark>
@@ -758,7 +771,8 @@
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5123791,13.0435419,0
+            77.5123791,
+            13.0435419,0
           </coordinates>
         </Point>
       </Placemark>
@@ -767,16 +781,8 @@
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5198378,13.0395842,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Metro Station Peenya Industry</name>
-        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            77.5255204,13.0363672,0
+            77.5198378,
+            13.0395842,0
           </coordinates>
         </Point>
       </Placemark>
@@ -785,7 +791,18 @@
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5254516,13.0364479,0
+            77.5254516,
+            13.0364479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Peenya</name>
+        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            77.53348237668888,
+            13.03296534835647,0
           </coordinates>
         </Point>
       </Placemark>
@@ -794,25 +811,28 @@
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5408673,13.028486,0
+            77.5408673,
+            13.028486,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Yeshwanthpur METRO Station</name>
+        <name>Yeshwanthpur</name>
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5410341,13.0286451,0
+            77.54986861372473,
+            13.023302800237335,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Sandal Soap Factory Metro Station (Orion Mall Metro Station)</name>
+        <name>Sandal Soap Factory</name>
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5539406,13.0139951,0
+            77.55403066079937,
+            13.014723454011321,0
           </coordinates>
         </Point>
       </Placemark>
@@ -821,34 +841,38 @@
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5488342,13.0083376,0
+            77.5488342,
+            13.0083376,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Rajajinagar metro station</name>
+        <name>Rajajinagar</name>
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5499858,13.0002036,0
+            77.5499858,
+            13.0002036,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Mahakavi Kuvempu Metro Station</name>
+        <name>Mahakavi Kuvempu Road</name>
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.556931,12.998505,0
+            77.556931,
+            12.998505,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Srirampura Metro Station</name>
+        <name>Srirampura</name>
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5631594,12.9963459,0
+            77.5631594,
+            12.9963459,0
           </coordinates>
         </Point>
       </Placemark>
@@ -857,16 +881,18 @@
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5708049,12.9905452,0
+            77.5708049,
+            12.9905452,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Chickpet Metro Station Entrance</name>
+        <name>Chickpet</name>
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5745061,12.9675454,0
+            77.57479140594278,
+            12.967541946193178,0
           </coordinates>
         </Point>
       </Placemark>
@@ -875,25 +901,28 @@
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.574479,12.960161,0
+            77.574479,
+            12.960161,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>National College Metro Station</name>
+        <name>National College</name>
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5734912,12.949966,0
+            77.5734912,
+            12.949966,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Lalbagh metro station</name>
+        <name>Lalbagh</name>
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5800003,12.946274,0
+            77.5800003,
+            12.946274,0
           </coordinates>
         </Point>
       </Placemark>
@@ -902,34 +931,28 @@
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5800748,12.9383208,0
+            77.5800748,
+            12.9383208,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Jayanagar Metro Station</name>
+        <name>Jayanagar</name>
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5802959,12.9290404,0
+            77.5802959,
+            12.9290404,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Rashtreeya Vidyalaya Road</name>
+        <name>Banashankari</name>
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5802611,12.9215877,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Banashankari Metro Station.</name>
-        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            77.5736718,12.9154317,0
+            77.5736718,
+            12.9154317,0
           </coordinates>
         </Point>
       </Placemark>
@@ -938,7 +961,8 @@
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.573061,12.9075563,0
+            77.573061,
+            12.9075563,0
           </coordinates>
         </Point>
       </Placemark>
@@ -947,193 +971,290 @@
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5701606,12.8960529,0
+            77.5701606,
+            12.8960529,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Konanakunte Cross Metro Station</name>
+        <name>Konanakunte Cross</name>
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5628523,12.8888875,0
+            77.5628523,
+            12.8888875,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Doddakallasandra Metro Station</name>
+        <name>Doddakallasandra</name>
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5522014,12.8845374,0
+            77.55282465400295,
+            12.884632491348903,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Vajarahalli Metro Bus Stop</name>
+        <name>Vajarahalli</name>
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.544547,12.877561,0
+            77.544547,
+            12.877561,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Metro Station Thalagattapura</name>
+        <name>Thalagattapura</name>
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.538352,12.8717967,0
+            77.538352,
+            12.8717967,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Silk Institute Metro Station</name>
+        <name>Silk Institute</name>
         <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5299638,12.8616281,0
+            77.5299638,
+            12.8616281,0
           </coordinates>
         </Point>
       </Placemark>
     </Folder>
+
+    <!-- Yellow Line -->
     <Folder>
-      <name>Yellow line</name>
+      <name>Yellow Line</name>
       <Placemark>
-        <name>Ragigudda Metro Station</name>
+        <name>Ragigudda</name>
         <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.5883611111111,12.9171111111111,0
+            77.5883611111111,
+            12.9171111111111,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Jayadeva Hospital Metro Station</name>
+        <name>BTM Layout</name>
         <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6000833333333,12.9167222222222,0
+            77.60825,
+            12.9165555555556,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>BTM Layout Metro Station</name>
+        <name>Bommanahalli</name>
         <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.60825,12.9165555555556,0
+            77.6265833333333,
+            12.9106666666667,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Central Silk Board Metro Station</name>
+        <name>Hongasandra</name>
         <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6207272,12.9166951,0
+            77.6320833333333,
+            12.9016388888889,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Bommanahalli Metro station</name>
+        <name>Kudlu Gate</name>
         <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6265833333333,12.9106666666667,0
+            77.6392777777778,
+            12.8899166666667,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Hongasandra Metro Station</name>
+        <name>Singasandra</name>
         <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6320833333333,12.9016388888889,0
+            77.6449722222222,
+            12.8806944444444,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Kudlu Gate Metro Station</name>
+        <name>Hosa Road</name>
         <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6392777777778,12.8899166666667,0
+            77.6524722222222,
+            12.8707777777778,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Singasandra Metro Station</name>
+        <name>Beratena Agrahara</name>
         <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6449722222222,12.8806944444444,0
+            77.6579722222222,
+            12.8638611111111,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Hosa Road Metro Station</name>
+        <name>Konappana Agrahara</name>
         <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6524722222222,12.8707777777778,0
+            77.6636111111111,
+            12.8564722222222,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Beratena Agrahara Metro Station</name>
+        <name>Electronic City</name>
         <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6579722222222,12.8638611111111,0
+            77.6711111111111,
+            12.8465,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Konappana Agrahara Metro Station</name>
+        <name>Huskur Road</name>
         <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6636111111111,12.8564722222222,0
+            77.6775277777778,
+            12.839,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Electronic City Metro Station</name>
+        <name>Hebbagodi</name>
         <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6711111111111,12.8465,0
+            77.6813308,
+            12.8289678,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Huskur Road Metro station</name>
+        <name>Bommasandra</name>
         <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6775277777778,12.839,0
+            77.6883321,
+            12.8193088,0
           </coordinates>
         </Point>
       </Placemark>
+    </Folder>
+
+    <!-- Pink Line (INCOMPLETE) -->
+    <Folder>
+      <name>Pink Line</name>
+    </Folder>
+
+    <!-- Interchanges -->
+    <Folder>
+      <name>Interchanges</name>
+      <!-- K.R. Pura (Blue - Purple) -->
       <Placemark>
-        <name>Hebbagodi Metro Station</name>
-        <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
+        <name>Krishnarajapura</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6813308,12.8289678,0
+            77.67758028650351,
+            12.999976043379052,0
           </coordinates>
         </Point>
       </Placemark>
+
+      <!-- Central Silk Board (Blue - Yellow) -->
       <Placemark>
-        <name>Bommasandra Metro Station</name>
+        <name>Central Silk Board</name>
         <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
         <Point>
           <coordinates>
-            77.6883321,12.8193088,0
+            77.6207272,
+            12.9166951,0
           </coordinates>
         </Point>
       </Placemark>
+
+      <!-- Majestic (Purple - Green) -->
+      <Placemark>
+        <name>Nadaprabhu Kempegowda Station, Majestic</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            77.57284491759552,
+            12.975687324875317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+
+      <!-- R.V. Road (Yellow - Green) -->
+      <Placemark>
+        <name>Rashtreeya Vidyalaya Road</name>
+        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            77.5802611,
+            12.9215877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+
+      <!-- Jayadeva Hospital (Yellow - Pink) -->
+      <Placemark>
+        <name>Jayadeva Hospital</name>
+        <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            77.6000833333333,
+            12.9167222222222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+
+      <!-- M.G. Road (Purple - Pink) -->
+      <Placemark>
+        <name>Mahatma Gandhi Road</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            77.60669088055624,
+            12.97551243845493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+
+      <!-- Nagawara (Blue - Pink) -->
+      <Placemark>
+        <name>Nagawara</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            77.6246666666667,
+            13.0405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+
     </Folder>
   </Document>
 </kml>
